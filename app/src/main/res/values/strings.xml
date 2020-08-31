@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biblioteca Escolar</string>
+    <string name="app_title">Biblioteca Escolar</string>
+    <string name="objetive">Escribe el nombre del libro</string>
+    <string name="search_text">Buscar</string>
+    <string name="bookIsbnSample">9780321497642</string>
+</resources>
